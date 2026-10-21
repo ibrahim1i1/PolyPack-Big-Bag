@@ -99,12 +99,12 @@ export default function Contact() {
                 <i className="fa-solid fa-map-location-dot"></i>
                 <span>{lang === 'tr' ? "Tesis Konumumuz" : "Our Plant Location"}</span>
               </h3>
-              <span>{lang === 'tr' ? "Körfez / Kocaeli Sanayi Bölgesi" : "Körfez / Kocaeli Industrial Area"}</span>
+              <span>{lang === 'tr' ? "Gebze / Kocaeli Sanayi Bölgesi" : "Gebze / Kocaeli Industrial Area"}</span>
             </div>
             <div className="map-frame-holder">
               <iframe
                 src={companyInfo.mapUrl}
-                title="ERDAŞ Fabrika Konumu"
+                title="Gebze Fabrika Konumu"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}

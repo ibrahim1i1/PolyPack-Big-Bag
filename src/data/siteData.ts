@@ -12,10 +12,9 @@ export const companyInfo: CompanyInfo = {
     tr: "Cumhuriyet mahallesi caddesi no 2 Gebze / Kocaeli, Türkiye",
     en: "Cumhuriyet Mah. Cd. No:2 Gebze / Kocaeli, Turkey"
   },
-  mapUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3020.056874475854!2d29.649379923725085!3d40.80474397137977!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cb3b0126f9797b%3A0xa70a5b146b17aecc!2zQ3VtaHVyaXlldCwgw4dhcsWfxLEgQ2QuIE5vOjkyLCA0MTgwMCBLw7ZyZmV6L0tvY2FlbGk!5e0!3m2!1sar!2str!4v1789580977428!5m2!1sar!2str"
+  mapUrl: "https://www.google.com/maps/embed?pb="
 };
 
-// مصفوفة المنتجات الأربعة
 export const productsData: Product[] = [
   {
     slug: "standart-4-kulplu",
