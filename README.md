@@ -5,7 +5,6 @@ A fast, responsive, and modern commercial product catalog for industrial FIBC Bi
 ## 🚀 Live Demo
 
 * **Live URL:** https://poly-pack-big-bag.vercel.app/
-* **Repository:** https://github.com/ibrahim1i1/PolyPack-Big-Bag.git
 
 ## ✨ Features
 
