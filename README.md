@@ -1,55 +1,31 @@
-# 📦 PolyPack — Industrial FIBC Product Catalog
+# 📦 PolyPack - Industrial FIBC Solutions
 
-A modern, high-performance B2B web catalog for industrial FIBC (Flexible Intermediate Bulk Container) woven polypropylene Big Bags. Built with **React**, **TypeScript**, **Tailwind CSS**, and **Vite**.
+A fast, responsive, and modern commercial product catalog for industrial FIBC Big Bags, built with React, TypeScript, and CSS. Designed for seamless mobile responsiveness and an intuitive B2B browsing experience.
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![React](https://img.shields.io/badge/React-18.x-61DAFB?logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.x-38B2AC?logo=tailwind-css)
-![Vite](https://img.shields.io/badge/Vite-5.x-646CFF?logo=vite)
-![Vercel](https://img.shields.io/badge/Deployment-Vercel-000000?logo=vercel)
+## 🚀 Live Demo
 
----
+* **Live URL:** https://poly-pack-big-bag.vercel.app/
+* **Repository:** https://github.com/ibrahim1i1/PolyPack-Big-Bag.git
 
-## 🌟 Live Demo
+## ✨ Features
 
-- **Live Preview:** [Insert Your Vercel Live Link Here]
-- **Repository:** [Insert Your GitHub Repo Link Here]
-
----
-
-## 📖 Overview
-
-PolyPack solves the challenge of presenting heavy-duty industrial specifications in a clean, user-friendly digital format. Designed specifically for industrial manufacturers and B2B buyers, the platform allows clients to explore technical bag dimensions, safe working loads (SWL), lifting loop variations, and request commercial quotes directly.
-
----
-
-## ✨ Key Features
-
-- **Industrial Product Catalog:** Detailed product cards displaying dimensions, capacities (up to 1+ Ton), safety factors, and loop configurations.
-- **Type-Safe Architecture:** Built with robust TypeScript interfaces for product definitions, preventing runtime data errors.
-- **Responsive Mobile-First Design:** Fully optimized across mobile, tablet, and desktop screens using custom Tailwind utility classes.
-- **RFQ (Request For Quote) System:** Direct call-to-action workflows enabling prospective buyers to initiate purchasing inquiries.
-- **Blazing Fast Performance:** Powered by Vite for minimal bundle size and near-instant initial page loads.
-
----
+* **Responsive Layout:** Optimized for both desktop and mobile screens with smooth navigation.
+* **Industrial Product Catalog:** Detailed specifications, dimensions, loop types, and safe working loads (SWL) for 1-ton industrial bags.
+* **Type Safety:** Fully typed components, product models, and data structures using TypeScript.
+* **Inquiry Workflow:** Direct call-to-action interactions enabling B2B buyers to request quotes easily.
+* **Modern UI/UX:** Styled with clean, custom, lightweight CSS without heavy external frameworks.
 
 ## 🛠️ Tech Stack
 
-- **Framework:** [React](https://react.dev/)
-- **Language:** [TypeScript](https://www.typescriptlang.org/)
-- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
-- **Build Tool:** [Vite](https://vitejs.dev/)
-- **Icons:** [Lucide React](https://lucide.dev/)
-- **Hosting & Deployment:** [Vercel](https://vercel.com/)
+* **Framework:** React + Vite
+* **Language:** TypeScript
+* **Styling:** CSS3 (Custom / Vanilla CSS)
+* **Deployment:** Vercel
 
----
+## 📦 Getting Started
 
-## 🚀 Getting Started
+To run this project locally:
 
-Follow these steps to run the project locally on your machine:
-
-### 1. Clone the repository
+1. Clone the repository:
 ```bash
-git clone [https://github.com/your-username/polypack-bigbag.git](https://github.com/your-username/polypack-bigbag.git)
-cd polypack-bigbag
+git clone [https://github.com/ibrahim1i1/polypack.git](https://github.com/ibrahim1i1/polypack.git)
